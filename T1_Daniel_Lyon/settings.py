@@ -55,7 +55,7 @@ ROOT_URLCONF = 'T1_Daniel_Lyon.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['/Volumes/GoogleDrive/Mi unidad/Universidad/2020/Taller de Integracion/Tareas/T1/T1_Daniel_Lyon/T1_Daniel_Lyon/Plantillas'],
+        'DIRS': ['T1_Daniel_Lyon/Plantillas'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

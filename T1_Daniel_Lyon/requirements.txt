@@ -9,7 +9,7 @@ cffi==1.13.2
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.1.2
-Django==3.0.5
+Django==3.1.6
 entrypoints==0.2.3
 flake8==3.4.1
 html5lib==0.999999999
